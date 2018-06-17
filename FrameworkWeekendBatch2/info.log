@@ -1,0 +1,42 @@
+2018-02-17 10:02:58 INFO  TestBase:24 - chrome is laucnched
+2018-03-17 10:03:02 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-03-17 10:03:03 INFO  TestBase:35 - Entered Username: Admin
+2018-03-17 10:03:03 INFO  TestBase:37 - Entered Password: admin
+2018-03-17 10:03:08 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-03-17 10:03:12 INFO  TestBase:24 - chrome is laucnched
+2018-03-17 10:03:16 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-06-17 10:06:28 INFO  TestBase:24 - chrome is laucnched
+2018-06-17 10:06:32 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-06-17 10:06:33 INFO  TestBase:35 - Entered Username: Admin
+2018-06-17 10:06:33 INFO  TestBase:37 - Entered Password: admin
+2018-06-17 10:06:39 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-06-17 10:06:42 INFO  TestBase:24 - chrome is laucnched
+2018-06-17 10:06:46 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-17-17 10:17:16 INFO  TestBase:24 - chrome is laucnched
+2018-17-17 10:17:21 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-17-17 10:17:22 INFO  TestBase:35 - Entered Username: Admin
+2018-17-17 10:17:22 INFO  TestBase:37 - Entered Password: admin
+2018-17-17 10:17:27 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-17-17 10:17:31 INFO  TestBase:24 - chrome is laucnched
+2018-17-17 10:17:34 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-19-17 10:19:34 INFO  TestBase:24 - chrome is laucnched
+2018-19-17 10:19:39 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-19-17 10:19:40 INFO  TestBase:35 - Entered Username: Admin
+2018-19-17 10:19:40 INFO  TestBase:37 - Entered Password: admin
+2018-19-17 10:19:45 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-19-17 10:19:49 INFO  TestBase:24 - chrome is laucnched
+2018-19-17 10:19:53 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-29-17 10:29:42 INFO  TestBase:24 - chrome is laucnched
+2018-29-17 10:29:47 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-29-17 10:29:48 INFO  TestBase:35 - Entered Username: Admin
+2018-29-17 10:29:48 INFO  TestBase:37 - Entered Password: admin
+2018-29-17 10:29:54 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-29-17 10:29:58 INFO  TestBase:24 - chrome is laucnched
+2018-30-17 10:30:03 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-40-17 10:40:05 INFO  TestBase:24 - chrome is laucnched
+2018-40-17 10:40:09 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-40-17 10:40:10 INFO  TestBase:35 - Entered Username: Admin
+2018-40-17 10:40:10 INFO  TestBase:37 - Entered Password: admin
+2018-40-17 10:40:15 INFO  TestBase:43 - Test Assertion between expted Title OrangeHRM and actual Title: OrangeHRM
+2018-40-17 10:40:19 INFO  TestBase:24 - chrome is laucnched
+2018-40-17 10:40:23 INFO  TestBase:26 - Navigated to the url: http://opensource.demo.orangehrmlive.com/

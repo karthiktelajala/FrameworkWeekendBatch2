@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24750" started-at="2018-06-17T05:10:01Z" finished-at="2018-06-17T05:10:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24750" started-at="2018-06-17T05:10:01Z" finished-at="2018-06-17T05:10:26Z">
+      <class name="pageTestLibrary.LoginPageTestSuite">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="startTest" is-config="true" duration-ms="8391" started-at="2018-06-17T10:40:01Z" finished-at="2018-06-17T10:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="loginWithValidCredentials()[pri:1, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="loginWithValidCredentials" duration-ms="5738" started-at="2018-06-17T10:40:09Z" finished-at="2018-06-17T10:40:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="endTest" is-config="true" duration-ms="592" started-at="2018-06-17T10:40:15Z" finished-at="2018-06-17T10:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="startTest" is-config="true" duration-ms="7599" started-at="2018-06-17T10:40:16Z" finished-at="2018-06-17T10:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="loginWithInvalidCredentials()[pri:2, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="loginWithInvalidCredentials" duration-ms="1827" started-at="2018-06-17T10:40:23Z" finished-at="2018-06-17T10:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:pageTestLibrary.LoginPageTestSuite@3cb5cdba]" name="endTest" is-config="true" duration-ms="586" started-at="2018-06-17T10:40:25Z" finished-at="2018-06-17T10:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- pageTestLibrary.LoginPageTestSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
